@@ -1,4 +1,4 @@
-![System Diagram](assets:kurek-ashley-system-diagram.png)
+![System Diagram](assets/kurek-ashley-system-diagram.png)
 
 # Kurek Ashley Coaching Canon
 

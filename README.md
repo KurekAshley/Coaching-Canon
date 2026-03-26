@@ -1,3 +1,5 @@
+![System Diagram](assets/system-diagram.png)
+
 # Kurek Ashley Coaching Canon
 
 ## Overview
